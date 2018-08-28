@@ -4,7 +4,7 @@
 The app allows the user to change the background and text color, and also change the text string, using buttons and text inputs.
 
 ### App Walk-though
-<img src="Pre-work-app/AppWalkthrough.gif" width=200><br>
+<img src="AppWalkthrough.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
